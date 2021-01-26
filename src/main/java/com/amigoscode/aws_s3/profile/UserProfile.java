@@ -5,6 +5,7 @@ import java.util.Optional;
 import java.util.UUID;
 
 public class UserProfile {
+
     private UUID userProfileId;
     private String userName;
     private String userProfileImageLink;
